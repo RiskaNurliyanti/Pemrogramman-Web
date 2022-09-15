@@ -1,0 +1,40 @@
+.header{
+    background-color: #f7f2b4;
+    height : 90px;
+
+}
+
+button{
+    /* background-color: #00ffff; */
+    touch-action: auto;
+}
+
+.main {
+    background-color: #bdf7f1;
+  
+    height: 160px;
+
+}
+
+.footer {
+    background-color: #ceccf3;
+    height: 270px;
+}
+/* h1{
+    color: red;
+    background-color: blueviolet;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    width: 600px;
+    height: 80px
+}
+
+li{
+    color: green;
+}
+p{
+    color: blue;
+}
+
+.select{
+    color: aqua;
+} */
